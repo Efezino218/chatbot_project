@@ -1,0 +1,18 @@
+{
+    "greetings": ["Hello!", "Hi there!", "Hey, how are you?"],
+    "how_are_you": ["How are you today?", "How's your day been?", "What's new?"],
+    "responses_fine": ["I'm glad to hear that!", "That's wonderful!", "Good to know!"],
+    "responses_not_so_good": ["I'm sorry to hear that.", "Hope things get better for you.", "Hang in there."],
+    "responses_neutral": [
+        "I see.",
+        "Interesting.",
+        "Tell me more about it.",
+        "That's an intriguing perspective.",
+        "Hmm, I hadn't thought about it like that before.",
+        "Interesting point.",
+        "Go on, I'm listening.",
+        "Fascinating, please continue.",
+        "I'm curious to learn more."
+    ],
+    "farewell": ["Okay, talk to you later!", "Take care!", "See you soon!"]
+}
